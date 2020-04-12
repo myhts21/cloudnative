@@ -1,3 +1,4 @@
 credentials/*.key.json
 .terraform/*
 *.tfplan
+/
